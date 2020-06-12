@@ -1,0 +1,21 @@
+body {
+	background-color: #f7f7f7;
+	
+}
+
+.btn-primary {
+	margin-top: 20px;
+}
+.container {
+	
+	width:100%;
+	background-color: #fff;
+}
+.jumbotron{
+	background-color: #fff;
+//background-image:url("/../../assets/img/header.jpg	");}
+.jumbotron h2{text-align:center;}
+.burgers {
+    margin-bottom: 3%;
+    border-bottom: 1px solid #ddd;
+}
